@@ -2,7 +2,7 @@
 ### CSE Student
 
 🌱 Making CSE simple - Tamil + English notes!
-📚 DSA | DBMS | OS | CN
+📚 DSA | DBMS | OS | CN | Tnpsc
 
 👉 My Notes: [CSE-Notes](https://github.com/StudywithSafa/CSE-Notes)
 
